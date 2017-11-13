@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">WeatherToday</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="search_result">Search Result</string>
+    <string name="no_city_searched">No City Searched</string>
+    <string name="menu_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_header">Check Weather Today</string>
+
+    <string-array name="city_name_list_array">
+        <item>Boston, US</item>
+        <item>Frisco, US</item>
+        <item>New Jersey, US</item>
+        <item>Abbott	Hill, US</item>
+        <item>Abernathy*	Lubbock, US</item>
+        <item>Hale, US</item>
+        <item>AbileneCounty seat*	Taylor, US</item>
+        <item>Jones, US</item>
+        <item>Ackerly*	Dawson, US</item>
+        <item>Martin, US</item>
+        <item>Addison	Dallas, US</item>
+        <item>Adrian	Oldham, US</item>
+        <item>Agua Dulce	Nueces, US</item>
+        <item>Alamo	Hidalgo, US</item>
+        <item>CooperCounty seat	Delta, US</item>
+        <item>Coppell*	Dallas, US</item>
+        <item> Denton, US</item>
+        <item>Copperas Cove*	Coryell, US</item>
+        <item>Lampasas, US</item>
+        <item>Bell, US</item>
+        <item>Corinth	Denton, US</item>
+        <item>Corpus ChristiCounty seat*	Nueces, US</item>
+        <item>Kleberg, US</item>
+        <item>San Patricio, US</item>
+        <item>Aransas, US</item>
+        <item>CorsicanaCounty seat	Navarro, US</item>
+        <item>Cottonwood	Kaufman, US</item>
+        <item>Cottonwood Shores	Burnet, US</item>
+        <item>CotullaCounty seat	La Salle, US</item>
+        <item>Coupland	Williamson, US</item>
+        <item>Cove	Chambers, US</item>
+        <item>Covington	Hill, US</item>
+        <item>Coyote Flats	Johnson, US</item>
+        <item>Crandall	Kaufman, US</item>
+        <item>CraneCounty seat	Crane, US</item>
+        <item>Cranfills Gap	Bosque, US</item>
+        <item>Creedmoor	Travis, US</item>
+        <item>Cresson*	Hood, US</item>
+        <item>Johnson, US</item>
+        <item>Parker, US</item>
+        <item>CrockettCounty seat	Houston, US</item>
+        <item>CrosbytonCounty seat	Crosby, US</item>
+        <item>CrowellCounty seat	Foard, US</item>
+        <item>Crowley*	Tarrant, US</item>
+        <item>Johnson, US</item>
+        <item>Crystal CityCounty seat	Zavala, US</item>
+        <item>CueroCounty seat	DeWitt, US</item>
+        <item>Cumby	Hopkins, US</item>
+        <item>Cushing	Nacogdoches, US</item>
+        <item>Cut and Shoot	Montgomery, US</item>
+        <item>DaingerfieldCounty seat	Morris, US</item>
+        <item>Daisetta	Liberty, US</item>
+        <item>DalhartCounty seat*	Dallam, US</item>
+        <item>Hartley, US</item>
+        <item>DallasCounty seat*	Dallas, US</item>
+        <item>Collin, US</item>
+        <item>Denton, US</item>
+        <item>Kaufman, US</item>
+        <item>Rockwall, US</item>
+        <item>Dalworthington Gardens	Tarrant, US</item>
+        <item>Danbury	Brazoria, US</item>
+        <item>Dayton	Liberty, US</item>
+        <item>Dayton Lakes	Liberty, US</item>
+        <item>De Leon	Comanche, US</item>
+        <item>Dean	Clay, US</item>
+        <item>DecaturCounty seat	Wise, US</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
